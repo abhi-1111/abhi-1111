@@ -1,4 +1,7 @@
 ### Hi there 👋
+                I am Abhilash Mandadi - Product manager
+             + 🔭  I am currently working on a React native mobile app
+             + 📫 How to reach me:  LinkedIn 
 
 <!--
 **abhi-1111/abhi-1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
