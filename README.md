@@ -29,6 +29,11 @@ Here are some ideas to get you started:
 
 > "Never Quit." - A R
 
+## Projects
+
+<p>Network Traffic Analysis-
+    Used wireshark to analyze network traffic with infected activity on a PCAP.
+</p>
 
 ## 🎨 Tools & Design
 
